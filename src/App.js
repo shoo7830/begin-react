@@ -24,7 +24,7 @@ function App() {
 
   const nextId = userRef(4);
   const onCreate = () => {
-
+    // 나중에 구현할 배열에 항목 추가
 
     nextId.current += 1;
   };

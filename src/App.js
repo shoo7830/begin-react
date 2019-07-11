@@ -20,7 +20,7 @@ function App() {
       id: 1,
       username: 'velopert',
       email: 'public.velopert@gmail.com',
-      active: true
+      active: true  // 초록색
     },
 
     {

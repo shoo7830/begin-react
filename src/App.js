@@ -126,3 +126,5 @@ function App () {
 }
 
 export default App;
+
+// 20. useReducer 학습
